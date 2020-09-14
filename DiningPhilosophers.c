@@ -1,13 +1,3 @@
-/*
- * 180C PROJECT IMPLEMENTATION
- * DINING PHILOSOPHERS
- *
- * AUTHOR : Krutika Katelia
- * GID	  : 24 (TWENTY FOUR)
- * SID    : 014496573
- * DATE   : Oct 22, 2019
- */
-
 
 #include <pthread.h>
 #include <semaphore.h>
